@@ -1,0 +1,13 @@
+body {
+    background-color: azure;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+li {
+    font-size: 22px;
+}
+
+h1 {
+    text-align: center;
+}
